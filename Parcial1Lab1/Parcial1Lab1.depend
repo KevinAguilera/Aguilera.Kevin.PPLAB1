@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1602686216 source:c:\users\kevin\desktop\parcial1labo1\parcial1lab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"moto.h"
+	"type.h"
+	"color.h"
+	"service.h"
+	"work.h"
+	"extras.h"
+	"menu.h"
+
+1602685092 source:c:\users\kevin\desktop\parcial1labo1\parcial1lab1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"extras.h"
+	"validations.h"
+
+1602678803 source:c:\users\kevin\desktop\parcial1labo1\parcial1lab1\type.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"type.h"
+
+1602678759 source:c:\users\kevin\desktop\parcial1labo1\parcial1lab1\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1602678759 c:\users\kevin\desktop\parcial1labo1\parcial1lab1\color.h
+
+1602678803 c:\users\kevin\desktop\parcial1labo1\parcial1lab1\type.h
+
+1602679219 source:c:\users\kevin\desktop\parcial1labo1\parcial1lab1\service.c
+	"service.h"
+
+1602687758 source:c:\users\kevin\desktop\parcial1labo1\parcial1lab1\work.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"work.h"
+	"validations.h"
+	"menu.h"
+	"extras.h"
+
+1602679592 c:\users\kevin\desktop\parcial1labo1\parcial1lab1\service.h
+
+1602686460 source:c:\users\kevin\desktop\parcial1labo1\parcial1lab1\extras.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validations.h"
+
+1602687758 c:\users\kevin\desktop\parcial1labo1\parcial1lab1\validations.h
+
+1602680353 c:\users\kevin\desktop\parcial1labo1\parcial1lab1\menu.h
+
+1602680353 c:\users\kevin\desktop\parcial1labo1\parcial1lab1\extras.h
+
+1602687758 source:c:\users\kevin\desktop\parcial1labo1\parcial1lab1\validations.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"validations.h"
+
+1602679683 c:\users\kevin\desktop\parcial1labo1\parcial1lab1\work.h
+	"moto.h"
+	"service.h"
+
+1602686790 c:\users\kevin\desktop\parcial1labo1\parcial1lab1\moto.h
+	"type.h"
+	"color.h"
+
+1602686850 source:c:\users\kevin\desktop\parcial1labo1\parcial1lab1\moto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"moto.h"
+	"validations.h"
+	"menu.h"
+	"extras.h"
+
