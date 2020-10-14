@@ -1,2 +1,2 @@
 # Aguilera.Kevin.PPLAB1
-Parcial 1 Laboratorio 1
+La estructura Fecha se encuentra dentro de work.h, donde se utiliza.
