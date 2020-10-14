@@ -110,16 +110,17 @@ int work_load(int id, eWork works[], int sizeWorks, eMoto motorcycles[], int siz
             }
             else
             {
+                // Tambien pido fecha validada para que figure correctamente despu√©s del alta
                 validations_getUnsignedInt(&auxWork.date.day,"\n\tIngrese dia: ", "\n\t(!) Error. Ingrese un valor numerico entero. Dia inexistente.\n",1,31,1,31,4);
                 validations_getUnsignedInt(&auxWork.date.month,"\n\tIngrese mes: ", "\n\t(!) Error. Ingrese un valor numerico entero. Mes inexistente.\n",1,12,1,12,4);
-                validations_getUnsignedInt(&auxWork.date.year,"\n\tIngrese aÒo: ", "\n\t(!) Error. Ingrese un valor numerico entero. El anio debe ser entre 1990 y 2020.\n",1,2020,1,2020,4);
+                validations_getUnsignedInt(&auxWork.date.year,"\n\tIngrese a√±o: ", "\n\t(!) Error. Ingrese un valor numerico entero. El anio debe ser entre 1990 y 2020.\n",1,2020,1,2020,4);
 
                 while(validations_getDate(auxWork.date.day, auxWork.date.month, auxWork.date.year, 1990, 2020)==0)
                 {
                     printf("\n\t(!) Error. Fecha no valida. \n");
                     validations_getUnsignedInt(&auxWork.date.day,"\n\n\tIngrese dia: ", "\n\t(!) Error. Ingrese un valor numerico entero. Dia inexistente.\n",1,31,1,31,4);
                     validations_getUnsignedInt(&auxWork.date.month,"\n\tIngrese mes: ", "\n\t(!) Error. Ingrese un valor numerico entero. Mes inexistente.\n",1,12,1,12,4);
-                    validations_getUnsignedInt(&auxWork.date.year,"\n\tIngrese aÒo: ", "\n\t(!) Error. Ingrese un valor numerico entero entre 1990 y 2020.\n",1,2020,1,2020,4);
+                    validations_getUnsignedInt(&auxWork.date.year,"\n\tIngrese a√±o: ", "\n\t(!) Error. Ingrese un valor numerico entero entre 1990 y 2020.\n",1,2020,1,2020,4);
                 }
 
                 auxWork.id = id;
