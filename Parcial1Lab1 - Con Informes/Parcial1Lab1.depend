@@ -1,0 +1,211 @@
+# depslib dependency file v1.0
+1603287615 source:c:\users\kevin\desktop\parcial1labo1\parcial1lab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"moto.h"
+	"type.h"
+	"color.h"
+	"service.h"
+	"work.h"
+	"extras.h"
+	"menu.h"
+
+1603285430 source:c:\users\kevin\desktop\parcial1labo1\parcial1lab1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"extras.h"
+	"validations.h"
+
+1603282461 source:c:\users\kevin\desktop\parcial1labo1\parcial1lab1\type.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"type.h"
+
+1602678759 source:c:\users\kevin\desktop\parcial1labo1\parcial1lab1\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1602678759 c:\users\kevin\desktop\parcial1labo1\parcial1lab1\color.h
+
+1603283228 c:\users\kevin\desktop\parcial1labo1\parcial1lab1\type.h
+
+1602679219 source:c:\users\kevin\desktop\parcial1labo1\parcial1lab1\service.c
+	"service.h"
+
+1603118316 source:c:\users\kevin\desktop\parcial1labo1\parcial1lab1\work.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"work.h"
+	"validations.h"
+	"menu.h"
+	"extras.h"
+
+1602679592 c:\users\kevin\desktop\parcial1labo1\parcial1lab1\service.h
+
+1603241820 source:c:\users\kevin\desktop\parcial1labo1\parcial1lab1\extras.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validations.h"
+
+1603133374 c:\users\kevin\desktop\parcial1labo1\parcial1lab1\validations.h
+
+1602680353 c:\users\kevin\desktop\parcial1labo1\parcial1lab1\menu.h
+
+1602680353 c:\users\kevin\desktop\parcial1labo1\parcial1lab1\extras.h
+
+1603119341 source:c:\users\kevin\desktop\parcial1labo1\parcial1lab1\validations.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"validations.h"
+
+1602679683 c:\users\kevin\desktop\parcial1labo1\parcial1lab1\work.h
+	"moto.h"
+	"service.h"
+
+1602686790 c:\users\kevin\desktop\parcial1labo1\parcial1lab1\moto.h
+	"type.h"
+	"color.h"
+
+1603287530 source:c:\users\kevin\desktop\parcial1labo1\parcial1lab1\moto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"moto.h"
+	"validations.h"
+	"menu.h"
+	"extras.h"
+
+1603288961 source:c:\users\kevin\desktop\parcial1labo1\parcial1lab1\informs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"moto.h"
+	"type.h"
+	"color.h"
+	"service.h"
+	"work.h"
+	"informs.h"
+	"menu.h"
+	"extras.h"
+	"validations.h"
+
+1603285430 c:\users\kevin\desktop\parcial1labo1\parcial1lab1\informs.h
+
+1602678759 source:c:\users\kevin\desktop\parcial1labo1\parcial1lab1 - con informes\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1602678759 c:\users\kevin\desktop\parcial1labo1\parcial1lab1 - con informes\color.h
+
+1603241820 source:c:\users\kevin\desktop\parcial1labo1\parcial1lab1 - con informes\extras.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validations.h"
+
+1603133374 c:\users\kevin\desktop\parcial1labo1\parcial1lab1 - con informes\validations.h
+
+1603288961 source:c:\users\kevin\desktop\parcial1labo1\parcial1lab1 - con informes\informs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"moto.h"
+	"type.h"
+	"color.h"
+	"service.h"
+	"work.h"
+	"informs.h"
+	"menu.h"
+	"extras.h"
+	"validations.h"
+
+1602686790 c:\users\kevin\desktop\parcial1labo1\parcial1lab1 - con informes\moto.h
+	"type.h"
+	"color.h"
+
+1603283228 c:\users\kevin\desktop\parcial1labo1\parcial1lab1 - con informes\type.h
+
+1602679592 c:\users\kevin\desktop\parcial1labo1\parcial1lab1 - con informes\service.h
+
+1602679683 c:\users\kevin\desktop\parcial1labo1\parcial1lab1 - con informes\work.h
+	"moto.h"
+	"service.h"
+
+1603285430 c:\users\kevin\desktop\parcial1labo1\parcial1lab1 - con informes\informs.h
+
+1602680353 c:\users\kevin\desktop\parcial1labo1\parcial1lab1 - con informes\menu.h
+
+1602680353 c:\users\kevin\desktop\parcial1labo1\parcial1lab1 - con informes\extras.h
+
+1603287615 source:c:\users\kevin\desktop\parcial1labo1\parcial1lab1 - con informes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"moto.h"
+	"type.h"
+	"color.h"
+	"service.h"
+	"work.h"
+	"extras.h"
+	"menu.h"
+
+1603285430 source:c:\users\kevin\desktop\parcial1labo1\parcial1lab1 - con informes\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"extras.h"
+	"validations.h"
+
+1603287530 source:c:\users\kevin\desktop\parcial1labo1\parcial1lab1 - con informes\moto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"moto.h"
+	"validations.h"
+	"menu.h"
+	"extras.h"
+
+1602679219 source:c:\users\kevin\desktop\parcial1labo1\parcial1lab1 - con informes\service.c
+	"service.h"
+
+1603282461 source:c:\users\kevin\desktop\parcial1labo1\parcial1lab1 - con informes\type.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"type.h"
+
+1603119341 source:c:\users\kevin\desktop\parcial1labo1\parcial1lab1 - con informes\validations.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"validations.h"
+
+1603118316 source:c:\users\kevin\desktop\parcial1labo1\parcial1lab1 - con informes\work.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"work.h"
+	"validations.h"
+	"menu.h"
+	"extras.h"
+
